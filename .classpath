@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool-1.5.5.jar"/>
+	<classpathentry kind="lib" path="lib/finagle-core-5.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/finagle-http-5.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/finagle-scrooge-1.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/finagle-thrift-5.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/guava-11.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/java-xmlbuilder-0.4.jar"/>
+	<classpathentry kind="lib" path="lib/jedis-1.5.2.jar"/>
+	<classpathentry kind="lib" path="lib/jets3t-0.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="lib/libthrift-0.8.0.jar"/>
+	<classpathentry kind="lib" path="lib/netty-3.5.1.Final.jar"/>
+	<classpathentry kind="lib" path="lib/scala-library-2.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/scopt_2.9.1-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/scrooge-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/scrooge-runtime_2.9.2-3.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/silly-thrift-0.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="lib/util-codec-5.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/util-collection-5.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/util-core-5.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/util-hashing-5.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/util-jvm-5.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/util-logging-5.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
