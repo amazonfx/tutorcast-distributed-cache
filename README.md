@@ -6,4 +6,4 @@ Uses Finagle (Netty based container) for asynchronous http communication via Thr
 
 Stores received events to a collection of Redis instances
 
-Once a sesion is complete flush all events to that session to S3
+Once a session is complete flush all events to S3
